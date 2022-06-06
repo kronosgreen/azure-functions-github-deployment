@@ -1,3 +1,8 @@
 # Minimum packages for azure functions
 azure-functions
-azure-functions-worker
+# Function Packages
+azure-identity
+azure-keyvault-secrets
+pandas
+sqlalchemy
+psycopg2
