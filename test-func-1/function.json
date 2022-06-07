@@ -1,0 +1,11 @@
+{
+  "scriptFile": "__init__.py",
+  "bindings": [
+    {
+      "name": "test-func-1",
+      "type": "timerTrigger",
+      "direction": "in",
+      "schedule": "0 1 * * * *"
+    }
+  ]
+}
